@@ -10,7 +10,8 @@ Use the package manager [npm](https://nodejs.org/) to install the required packa
 
 ```bash
 cd api
-npm i
+npm init
+npm i openai express body-parser cors dotenv
 ```
 
 ## Usage
