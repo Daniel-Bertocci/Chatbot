@@ -19,3 +19,5 @@ npm i
 cd api
 node .
 ```
+
+![Helpful AI](https://github.com/Daniel-Bertocci/Chatbot/assets/75405588/3053a101-e78d-43d5-ad21-93d15c8334e3)
